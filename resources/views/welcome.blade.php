@@ -349,7 +349,7 @@
         <div class="row text-center pb-70">
           <div class="col-lg-12 col-12 header-wrap">
             <p class="story">SUCCESS STUDENTS</p>
-            <h2 class="primary-header">We Really Love Laracamp</h2>
+            <h2 class="primary-header">We Really Love HelloWorld</h2>
           </div>
         </div>
         <div class="row justify-content-center">
