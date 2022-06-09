@@ -62,8 +62,8 @@
             </li>
           </ul>
           <div class="d-flex">
-            <a href="#" class="btn btn-master btn-secondary me-3"> Sign In </a>
-            <a href="#" class="btn btn-master btn-primary"> Sign Up </a>
+            <a href="{{ route('login') }}" class="btn btn-master btn-secondary me-3"> Sign In </a>
+            <a href="{{ route('login') }}" class="btn btn-master btn-primary"> Sign Up </a>
           </div>
         </div>
       </div>
@@ -83,7 +83,7 @@
                 </h1>
                 <p class="support">
                   Find our best programs that might fit for your ipsum si amet
-                  urang Sidoarjo, Jawa Timur.
+                  urang Sidoarjo, Jaw{{ route('login') }}
                 </p>
                 <p class="cta">
                   <a href="#" class="btn btn-master btn-primary">
